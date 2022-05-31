@@ -1,0 +1,6 @@
+/Users/justaskiskis/Desktop/treciasgitimplement/treciasgitImplement/treciasgitImplement/obj/Debug/treciasgitImplement.csproj.AssemblyReference.cache
+/Users/justaskiskis/Desktop/treciasgitimplement/treciasgitImplement/treciasgitImplement/obj/Debug/treciasgitImplement.csproj.CoreCompileInputs.cache
+/Users/justaskiskis/Desktop/treciasgitimplement/treciasgitImplement/treciasgitImplement/bin/Debug/treciasgitImplement.exe
+/Users/justaskiskis/Desktop/treciasgitimplement/treciasgitImplement/treciasgitImplement/bin/Debug/treciasgitImplement.pdb
+/Users/justaskiskis/Desktop/treciasgitimplement/treciasgitImplement/treciasgitImplement/obj/Debug/treciasgitImplement.exe
+/Users/justaskiskis/Desktop/treciasgitimplement/treciasgitImplement/treciasgitImplement/obj/Debug/treciasgitImplement.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treciasgitImplement", "treciasgitImplement\treciasgitImplement.csproj", "{7E002A4F-5065-48AE-AD81-9A8893AE3250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E002A4F-5065-48AE-AD81-9A8893AE3250}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7E002A4F-5065-48AE-AD81-9A8893AE3250}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7E002A4F-5065-48AE-AD81-9A8893AE3250}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7E002A4F-5065-48AE-AD81-9A8893AE3250}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D51EA7C8-2848-49D9-AFE4-45238CF98986}
+	EndGlobalSection
+EndGlobal
